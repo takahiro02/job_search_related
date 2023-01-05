@@ -1,0 +1,6 @@
+github_resume.tex
+*.aux
+*.log
+*.out
+*.gz
+github_resume.pdf
